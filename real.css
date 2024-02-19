@@ -72,7 +72,7 @@ button {
 }
 
 button:hover {
-  background-color: #432000;
+  background-color: #0d6842;
   cursor: pointer;
 }
 
@@ -87,7 +87,7 @@ ul {
 
 ul li {
   font-size: 20px;
-  background-color: #4925c9;
+  background-color: #0c532a;
   color: whitesmoke;
   padding: 15px;
   border-radius: 20px;
